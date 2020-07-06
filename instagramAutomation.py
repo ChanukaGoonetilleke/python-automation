@@ -60,5 +60,5 @@ class InstaBot:
         sleep(2)
         return names
 
-my_bot = InstaBot('chan_goonetilleke', '29merchantsgate')
+my_bot = InstaBot('chan_goonetilleke', '***********')
 my_bot.get_unfollowers()
